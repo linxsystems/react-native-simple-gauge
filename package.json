@@ -38,4 +38,5 @@
   },
   "peerDependencies": {
     "@react-native-community/art": ">=1.0.3"
+  }
 }
