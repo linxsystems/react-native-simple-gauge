@@ -37,5 +37,5 @@
     "eslint": "^6.1.0"
   },
   "peerDependencies": {
-    "@react-native-community/art": ">=^1.0.3"
+    "@react-native-community/art": ">=1.0.3"
 }
